@@ -8,7 +8,7 @@ from sys import exit
 case_x, case_y = 30, 23
 size_x, size_y = 32, 32
 sword_width = 8
-filepath = "maps/map_06.txt"
+filepath = "maps/map_01.txt"
 size_bush = 2 # Taille des buissons
 p_decoration = [0, 0, 1] # Probabilité d'une décoration, 1/3 ici
 duree_party = 20 # in seconds
@@ -914,3 +914,4 @@ def main_game_loop():
         
 if __name__ == '__main__':
     main_game_loop()
+
