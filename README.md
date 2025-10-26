@@ -9,9 +9,10 @@ It's a litlle project about a local multiplayer game
 - math and random natives modules
 
 # Fonctionnement
-- Multiplayer_game (the main game)
+Files :
+- Multiplayer_game.py (the main game)
 - Textures
-- Map
+- Map/map.txt
 
 Textures and Map can be change easly (just .png and .txt)
 You have to use a ps4 controller but you can also change the code for use anything you want.
