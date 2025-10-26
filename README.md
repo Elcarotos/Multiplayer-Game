@@ -4,8 +4,8 @@
 It's a litlle project about a local multiplayer game
 
 ## Librairies
-- pyton 3.13.1
-- pygame 2.6
+- Python 3.13.1
+- PyGame 2.6
 - math and random natives modules
 
 ## Fonctionnement
