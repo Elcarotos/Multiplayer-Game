@@ -1,14 +1,14 @@
-# Multiplayer-Game
+# Multiplayer_Game
 
-# Description
+## Description
 It's a litlle project about a local multiplayer game
 
-# Librairies
+## Librairies
 - pyton 3.13.1
 - pygame 2.6
 - math and random natives modules
 
-# Fonctionnement
+## Fonctionnement
 Files :
 - Multiplayer_game.py (the main game)
 - Textures
