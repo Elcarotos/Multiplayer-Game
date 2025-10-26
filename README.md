@@ -10,7 +10,7 @@ It's a litlle project about a local multiplayer game
 
 ## Fonctionnement
 Files :
-- Multiplayer_game.py (the main game)
+- Multiplayer_Game.py (the main game)
 - Textures
 - Map/map.txt
 
